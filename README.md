@@ -1,4 +1,4 @@
-# Notice
+# About
 
 This project is a fork of [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages), and having almost the same codebase except that I manually merge the [MR](https://github.com/MihaiValentin/lunr-languages/pull/53) by [@repairearth](https://github.com/MihaiValentin/lunr-languages/issues?q=is%3Apr+is%3Aopen+author%3Arepairearth) which adds the support for Chinese.
 
@@ -18,8 +18,8 @@ npm i lunr-languages-with-chinese-support
 
 ```js
 var lunr = require("lunr")
-require("darkyzhou/lunr-languages-with-zh-support/lunr.stemmer.support")(lunr)
-require("darkyzhou/lunr-languages-with-zh-support/lunr.zh")(lunr)
+require("darkyzhou/lunr-languages-with-chinese-support/lunr.stemmer.support")(lunr)
+require("darkyzhou/lunr-languages-with-chinese-support/lunr.zh")(lunr)
 
 var idx = lunr(function () {
   this.use(lunr.zh)
