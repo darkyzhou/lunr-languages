@@ -11,7 +11,7 @@ I don't claim any responsibilities for the codebase it self, but if the fact tha
 # Installation
 
 ```
-npm i darkyzhou/lunr-languages-with-zh-support
+npm i lunr-languages-with-zh-support
 ```
 
 # Usage
