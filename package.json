@@ -1,6 +1,6 @@
 {
-  "name": "lunr-languages",
-  "description": "A a collection of languages stemmers and stopwords for Lunr Javascript library",
+  "name": "lunr-languages-with-zh-support",
+  "description": "A a collection of languages stemmers and stopwords for Lunr Javascript library (with Chinese support by @repairearth)",
   "author": "Mihai Valentin (http://www.mihaivalentin.com)",
   "version": "1.4.0",
   "license": "MPL-1.1",
