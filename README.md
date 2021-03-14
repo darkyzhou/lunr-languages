@@ -18,8 +18,8 @@ npm i lunr-languages-with-chinese-support
 
 ```js
 var lunr = require("lunr")
-require("darkyzhou/lunr-languages-with-chinese-support/lunr.stemmer.support")(lunr)
-require("darkyzhou/lunr-languages-with-chinese-support/lunr.zh")(lunr)
+require("lunr-languages-with-chinese-support/lunr.stemmer.support")(lunr)
+require("lunr-languages-with-chinese-support/lunr.zh")(lunr)
 
 var idx = lunr(function () {
   this.use(lunr.zh)
