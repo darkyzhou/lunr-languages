@@ -1,3 +1,7 @@
+# Notice (2021-6-18)
+
+This repository is not longer needed because lunr-languages now natively supports Chinese since [v1.5.0](https://github.com/MihaiValentin/lunr-languages/releases/tag/1.5.0). Go and get it!
+
 # About
 
 This project is a fork of [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages), and having almost the same codebase except that I manually merge the [MR](https://github.com/MihaiValentin/lunr-languages/pull/53) by [@repairearth](https://github.com/MihaiValentin/lunr-languages/issues?q=is%3Apr+is%3Aopen+author%3Arepairearth) which adds the support for Chinese.
